@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "A test server msde by Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowak51/NOT-A-Failing-Project.git"
+  },
+  "author": [
+             "slowak",
+             "gckm"
+            ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slowak51/NOT-A-Failing-Project/issues"
+  },
+  "homepage": "https://github.com/slowak51/NOT-A-Failing-Project#readme"
+}
